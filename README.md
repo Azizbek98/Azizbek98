@@ -3,6 +3,8 @@
 </p>
 
 <p align="center"><img alt="Codewars" src="https://www.codewars.com/users/Azizbek98/badges/large"/></p>
+<p align="center">[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=azizbek98)](https://github.com/anuraghazra/github-readme-stats)
+</p>
 <!--
 **Azizbek98/Azizbek98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
