@@ -4,6 +4,7 @@
 
 <p align="center"><img alt="Codewars" src="https://www.codewars.com/users/Azizbek98/badges/large"/></p>
 [![Azizbek's github stats](https://github-readme-stats.vercel.app/api?username=azizbek98&theme=gotham)](https://github.com/mhmzdev/github-readme-stats)
+<img alt="HTML5" src="https://github-readme-stats.vercel.app/api?username=azizbek98&theme=gotham"/>
 
 <!--
 **Azizbek98/Azizbek98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
