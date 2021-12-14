@@ -6,11 +6,11 @@
 
 #### Talking about my personal stuff:
 
-- 💻 The tech I'm interested in Web Development.
+- 💻 I'm Software Engineer(Front-End)
 - ✨ I'm learning Flutter, Web scrapping, Automations etc.
 - 🎮 COD Modern Warfare 1 Multiplayer
-- 📄 Live [Portfolio][profile]
-- 🎨 [Dribbble][dribbble] profile
+- 📄 I have graduated from Inha University in Tashkent
+- 🎨 Portfolio website :
 
 <div align="center">
   <p align="center">My contacts: </p>
