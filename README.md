@@ -47,7 +47,7 @@
 <div align="center">
   <h3>:octocat: My github stats:</h3>
 </div>
-<img align="left" alt="Github stats" src="https://github-readme-stats.vercel.app/api?username=azizbek98&theme=default" width="200" />
+<img align="left" alt="Github stats" src="https://github-readme-stats.vercel.app/api?username=azizbek98&theme=default" width="400" />
 <img align="right" alt="Github stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=azizbek98&layout=compact">
 
 <!--
