@@ -1,5 +1,14 @@
 ### Hey there, My name is Azizbek <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
+<img align="right" alt="Programmer" src="programmer.gif" width="360" height="265" />
+#### Talking about my personal stuff:
+
+- 💻 The tech I'm interested in Web Development.
+- ✨ I'm learning Flutter, Web scrapping, Automations etc.
+- 🎮 COD Modern Warfare 1 Multiplayer
+- 📄 Live [Portfolio][profile]
+- 🎨 [Dribbble][dribbble] profile
+
 <div align="center">
   <p align="center">🛠 Tools & Technology</p>
   
@@ -34,15 +43,6 @@
 <div align="center">
   <img alt="HTML5" src="https://github-readme-stats.vercel.app/api?username=azizbek98&theme=gotham"/>
 </div>
-
-<img align="right" alt="Programmer" src="programmer.gif" width="360" height="250" />
-#### Talking about my personal stuff:
-
-- 💻 The tech I'm interested in Web Development.
-- ✨ I'm learning Flutter, Web scrapping, Automations etc.
-- 🎮 COD Modern Warfare 1 Multiplayer
-- 📄 Live [Portfolio][profile]
-- 🎨 [Dribbble][dribbble] profile
 
 <!--
 **Azizbek98/Azizbek98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
