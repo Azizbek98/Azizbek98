@@ -13,6 +13,7 @@
 </div>
 
 <div align="center">
+  <p align="center">Let's connect!</p>
   <a href="#">
     <img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
@@ -35,8 +36,16 @@
 </div>
 
 <div align="right">
-  <img alt="Programmer" src="programmer.gif" />
+  <img alt="Programmer" src="programmer.gif" width="500" height="320" />
 </div>
+
+#### Talking about my personal stuff:
+
+- 💻 The tech I'm interested in Web Development.
+- ✨ I'm learning Flutter, Web scrapping, Automations etc.
+- 🎮 COD Modern Warfare 1 Multiplayer
+- 📄 Live [Portfolio][profile]
+- 🎨 [Dribbble][dribbble] profile
 
 <!--
 **Azizbek98/Azizbek98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
