@@ -32,7 +32,7 @@
 <hr />
 
 <div align="center">
-  <p align="center">🛠 Tools & Technology</p>
+  <h3 align="center">🛠 Tools & Technology</h3>
   
   <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
   <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
@@ -44,6 +44,7 @@
 </div>
 
 <div align="center">
+  <h3>:octocat: My github stats:</h3>
   <img alt="HTML5" src="https://github-readme-stats.vercel.app/api?username=azizbek98&theme=gotham"/>
 </div>
 
