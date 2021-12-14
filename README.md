@@ -46,9 +46,9 @@
 
 <div align="center">
   <h3>:octocat: My github stats:</h3>
-  <img align="left" alt="Github stats" src="https://github-readme-stats.vercel.app/api?username=azizbek98&theme=default"/>
-  <img align="right" alt="Github stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact">
 </div>
+<img align="left" alt="Github stats" src="https://github-readme-stats.vercel.app/api?username=azizbek98&theme=default"/>
+<img align="right" alt="Github stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact">
 
 <!--
 **Azizbek98/Azizbek98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
