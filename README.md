@@ -36,7 +36,7 @@
 </div>
 
 <div align="right">
-  <img alt="Programmer" src="programmer.gif" width="400" height="320" />
+  <img alt="Programmer" src="programmer.gif" width="380" height="250" />
 </div>
 
 #### Talking about my personal stuff:
