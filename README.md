@@ -8,6 +8,7 @@
 
 - 💻 I'm Software Engineer(Front-End)
 - ✨ I'm learning Flutter, Web scrapping, Automations etc.
+- ✨ I'm learning Flutter, Web scrapping, Automations etc.
 - 🎮 COD Modern Warfare 1 Multiplayer
 - 📄 I have graduated from Inha University in Tashkent
 - 🎨 Portfolio website :
