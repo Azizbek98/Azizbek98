@@ -35,10 +35,7 @@
   <img alt="HTML5" src="https://github-readme-stats.vercel.app/api?username=azizbek98&theme=gotham"/>
 </div>
 
-<div align="right">
-  <img alt="Programmer" src="programmer.gif" width="360" height="250" />
-</div>
-
+<img align="right" alt="Programmer" src="programmer.gif" width="360" height="250" />
 #### Talking about my personal stuff:
 
 - 💻 The tech I'm interested in Web Development.
