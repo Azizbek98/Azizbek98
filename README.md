@@ -1,5 +1,9 @@
 ### Hey there, My name is Azizbek <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
+<div align="right">
+  <img alt="Codewars" src="https://www.codewars.com/users/Azizbek98/badges/large"/>
+</div>
+
 <hr />
 
 <img align="right" alt="Programmer" src="programmer.gif" width="360" height="265" />
@@ -42,9 +46,6 @@
   <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </div>
 
-<div align="center">
-  <img alt="Codewars" src="https://www.codewars.com/users/Azizbek98/badges/large"/>
-</div>
 <div align="center">
   <img alt="HTML5" src="https://github-readme-stats.vercel.app/api?username=azizbek98&theme=gotham"/>
 </div>
