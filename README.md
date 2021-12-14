@@ -34,6 +34,10 @@
   <img alt="HTML5" src="https://github-readme-stats.vercel.app/api?username=azizbek98&theme=gotham"/>
 </div>
 
+<div align="right">
+  <img alt="Programmer" src="programmer.gif" />
+</div>
+
 <!--
 **Azizbek98/Azizbek98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
