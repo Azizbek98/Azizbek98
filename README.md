@@ -15,16 +15,16 @@
 
 <div align="center">
   <p align="center">My contacts: </p>
-  <a href="#">
+  <a href="https://t.me/a_Samatov">
     <img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/mhmzdev/">
+  <a href="https://www.linkedin.com/in/azizbek-samatov-b27859188/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="#">
     <img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
-  <a href="#">
+  <a href="mailto:azizbeksamatov98@gmail.com">
     <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
