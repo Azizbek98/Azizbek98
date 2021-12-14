@@ -9,6 +9,9 @@
 - 📄 Live [Portfolio][profile]
 - 🎨 [Dribbble][dribbble] profile
 
+<br />
+<br />
+<hr />
 <div align="center">
   <p align="center">🛠 Tools & Technology</p>
   
