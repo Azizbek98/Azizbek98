@@ -7,9 +7,9 @@
 #### Talking about my personal stuff:
 
 - 💻 I'm Software Engineer(Front-End)
-- ✨ I'm learning Flutter, Web scrapping, Automations etc.
-- ✨ I'm learning Flutter, Web scrapping, Automations etc.
-- 🎮 COD Modern Warfare 1 Multiplayer
+- ✨ My main interest is developing MPA and SPA Web Apps
+- ✨ I like to solve algorithmic tasks in Codewars or LeetCode
+- 🎮 My hobbies: Following new techs on web development
 - 📄 I have graduated from Inha University in Tashkent
 - 🎨 Portfolio website :
 
