@@ -1,6 +1,7 @@
+### Hey there, My name is Azizbek <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+
 <div>
-<h2 style="width: 50%">Hey there, My name is Azizbek <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h2>
-<img align="right" alt="Codewars" src="https://www.codewars.com/users/Azizbek98/badges/large"/>
+  <img align="right" alt="Codewars" src="https://www.codewars.com/users/Azizbek98/badges/large"/>
 </div>
 
 <hr />
