@@ -4,7 +4,7 @@
 
 <img align="right" alt="Programmer" src="programmer.gif" width="360" height="265" />
 
-#### Talking about my personal stuff:
+### Talking about my personal stuff:
 
 - 💻 I'm Software Engineer(Front-End)
 - ✨ My main interest is developing MPA and SPA Web Apps
