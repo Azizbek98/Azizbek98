@@ -6,11 +6,11 @@
 
 ### Talking about my personal stuff:
 
-- 💻 I'm Software Engineer(Front-End)
+- 💻 I'm Software Engineer ( Front-End )
 - ✨ My main interest is developing MPA and SPA Web Apps
 - ✨ I like to solve algorithmic tasks in Codewars or LeetCode
-- 🎮 My hobbies: Following new techs on web development
-- 📄 I have graduated from Inha University in Tashkent
+- 🔭 My hobbies: Following new techs on web development
+- 🎓 I have graduated from Inha University in Tashkent
 - 🎨 Portfolio website :
 
 <div align="center">
