@@ -1,4 +1,4 @@
-### Hey there, My name is Azizbek <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hey there, My name is Azizbek <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"><img align="right" alt="Codewars" src="https://www.codewars.com/users/Azizbek98/badges/large"/>
 
 <hr />
 
