@@ -4,7 +4,8 @@
 
 <img align="right" alt="Programmer" src="programmer.gif" width="360" height="265" />
 
-<h4> Talking about my personal stuff: </h4>
+#### Talking about my personal stuff:
+
 - 💻 The tech I'm interested in Web Development.
 - ✨ I'm learning Flutter, Web scrapping, Automations etc.
 - 🎮 COD Modern Warfare 1 Multiplayer
