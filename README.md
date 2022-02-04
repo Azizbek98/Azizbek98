@@ -9,7 +9,7 @@
 - ✨ I like to solve algorithmic tasks in Codewars or LeetCode
 - 🔭 My hobbies: Following new techs on web development
 - 🎓 I have graduated from Inha University in Tashkent
-- 🎨 Portfolio website :
+- 🎨 Portfolio website : <a href="https://a-samatov.netlify.app/">a-samatov.netlify.app</a>
 
 <div align="center">
   <p align="center">My contacts: </p>
