@@ -9,7 +9,9 @@
 - 🎓 I have graduated from Inha University in Tashkent
 - 🎨 Portfolio website : <a href="https://a-samatov.netlify.app/" target="_blank">a-samatov.netlify.app</a>
 
-<img align="right" alt="Programmer" src="programmer.gif" width="360" height="265" />
+<div align="right">
+  <img align="right" alt="Programmer" src="programmer.gif" width="360" height="265" />
+</div>
 
 <div align="left">
   <a href="https://t.me/a_Samatov">
