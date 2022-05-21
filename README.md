@@ -1,6 +1,10 @@
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hey there, My name is Azizbek <img align="right" alt="Codewars" src="https://www.codewars.com/users/Azizbek98/badges/large"/><br />
 
 <div align="center">
+  <div align="center">
+    <img alt="Programmer" src="programmer.gif" width="385" height="290" />
+  </div>
+  
   <h2>About me:</h2>
   <span align="left">💻 I'm Software Engineer ( Front-End )</span> ║ 
   <span align="left">✨ I like to solve algorithmic tasks in Codewars</span> ║ 
@@ -8,9 +12,7 @@
   <span align="left">🎓 Graduated from Inha University in Tashkent</span> ║ 
   <span align="left">🎨 Portfolio website : <a href="https://a-samatov22.netlify.app/" target="_blank">sab.netlify.app</a></span>
   <hr />
-  <div align="center">
-    <img alt="Programmer" src="programmer.gif" width="385" height="290" />
-  </div>
+  
 </div>
 
 <div align="center">
