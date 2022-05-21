@@ -1,5 +1,7 @@
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hey there, My name is Azizbek <img align="right" alt="Codewars" src="https://www.codewars.com/users/Azizbek98/badges/large"/><br />
 
+![programmer](https://user-images.githubusercontent.com/36354799/169642146-76547e26-930f-4ac3-a60d-46149de6b974.gif)
+
 ### Talking about my personal stuff:
 
 - 💻 I'm Software Engineer ( Front-End )
