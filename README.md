@@ -2,7 +2,7 @@
 
 <div align="center">
   <div align="center">
-    <img alt="Programmer" src="programmer.gif" width="385" height="290" />
+    <img alt="Programmer" src="programmer.gif" width="485" height="390" />
   </div>
   
   <h2>About me:</h2>
