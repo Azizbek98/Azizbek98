@@ -5,15 +5,14 @@
 ### Talking about my personal stuff:
 
 - 💻 I'm Software Engineer ( Front-End )
-- ✨ My main interest is developing MPA and SPA Web Apps
-- ✨ I like to solve algorithmic tasks in Codewars or LeetCode
-- 🔭 My hobbies: Following new techs on web development
-- 🎓 I have graduated from Inha University in Tashkent
+- ✨ I like to solve algorithmic tasks in Codewars
+- 🔭 Hobbies: Following new techs on web development
+- 🎓 Graduated from Inha University in Tashkent
 - 🎨 Portfolio website : <a href="https://a-samatov.netlify.app/" target="_blank">a-samatov.netlify.app</a>
 </div>
 
 <div align="right">
-  <img alt="Programmer" src="programmer.gif" width="360" height="265" />
+  <img alt="Programmer" src="programmer.gif" width="365" height="270" />
 </div>
 
 <div align="center">
