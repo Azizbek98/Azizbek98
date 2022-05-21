@@ -1,6 +1,6 @@
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hey there, My name is Azizbek <img align="right" alt="Codewars" src="https://www.codewars.com/users/Azizbek98/badges/large"/><br />
 
-<div align="right" width="300">![programmer](https://user-images.githubusercontent.com/36354799/169642146-76547e26-930f-4ac3-a60d-46149de6b974.gif)</div>
+
 
 ### Talking about my personal stuff:
 
@@ -10,6 +10,8 @@
 - 🔭 My hobbies: Following new techs on web development
 - 🎓 I have graduated from Inha University in Tashkent
 - 🎨 Portfolio website : <a href="https://a-samatov.netlify.app/" target="_blank">a-samatov.netlify.app</a>
+
+![programmer](https://user-images.githubusercontent.com/36354799/169642146-76547e26-930f-4ac3-a60d-46149de6b974.gif)
 
 <div align="left">
   <a href="https://t.me/a_Samatov">
