@@ -7,7 +7,7 @@
   <span align="left">🔭 Hobbies: Following new techs on web development</span> ║ 
   <span align="left">🎓 Graduated from Inha University in Tashkent</span> ║ 
   <span align="left">🎨 Portfolio website : <a href="https://a-samatov22.netlify.app/" target="_blank">sab.netlify.app</a></span>
-  <br />
+  <hr />
   <div align="center">
     <img alt="Programmer" src="programmer.gif" width="385" height="290" />
   </div>
