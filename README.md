@@ -1,18 +1,15 @@
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hey there, My name is Azizbek <img align="right" alt="Codewars" src="https://www.codewars.com/users/Azizbek98/badges/large"/><br />
 
-<div align="left">
-
-### Talking about my personal stuff:
-
-- 💻 I'm Software Engineer ( Front-End )
-- ✨ I like to solve algorithmic tasks in Codewars
-- 🔭 Hobbies: Following new techs on web development
-- 🎓 Graduated from Inha University in Tashkent
-- 🎨 Portfolio website : <a href="https://a-samatov.netlify.app/" target="_blank">a-samatov.netlify.app</a>
-</div>
-
-<div align="right">
-  <img alt="Programmer" src="programmer.gif" width="365" height="270" />
+<div align="center">
+  <h3>About me:</h3>
+  <span align="left">💻 I'm Software Engineer ( Front-End )</span> ║ 
+  <span align="left">✨ I like to solve algorithmic tasks in Codewars</span> ║ 
+  <span align="left">🔭 Hobbies: Following new techs on web development</span> ║ 
+  <span align="left">🎓 Graduated from Inha University in Tashkent</span> ║ 
+  <span align="left">🎨 Portfolio website : <a href="https://a-samatov.netlify.app/" target="_blank">a-samatov.netlify.app</a></span>
+  <div align="center">
+    <img alt="Programmer" src="programmer.gif" width="385" height="290" />
+  </div>
 </div>
 
 <div align="center">
