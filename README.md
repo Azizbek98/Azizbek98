@@ -2,6 +2,8 @@
 
 <img align="right" alt="Programmer" src="programmer.gif" width="360" height="265" />
 
+<div align="left">
+
 ### Talking about my personal stuff:
 
 - 💻 I'm Software Engineer ( Front-End )
@@ -10,6 +12,7 @@
 - 🔭 My hobbies: Following new techs on web development
 - 🎓 I have graduated from Inha University in Tashkent
 - 🎨 Portfolio website : <a href="https://a-samatov.netlify.app/" target="_blank">a-samatov.netlify.app</a>
+</div>
 
 <div align="left">
   <a href="https://t.me/a_Samatov">
@@ -28,7 +31,7 @@
 
 <hr />
 
-<div align="center">
+<div align="center" width="300">
   <h3 align="center">🛠 Tools & Technology</h3>
   
   <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
