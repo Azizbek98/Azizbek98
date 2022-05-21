@@ -1,7 +1,5 @@
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hey there, My name is Azizbek <img align="right" alt="Codewars" src="https://www.codewars.com/users/Azizbek98/badges/large"/><br />
 
-<div align="left">
-
 ### Talking about my personal stuff:
 
 - 💻 I'm Software Engineer ( Front-End )
@@ -10,7 +8,6 @@
 - 🔭 My hobbies: Following new techs on web development
 - 🎓 I have graduated from Inha University in Tashkent
 - 🎨 Portfolio website : <a href="https://a-samatov.netlify.app/" target="_blank">a-samatov.netlify.app</a>
-</div>
 
 <img align="right" alt="Programmer" src="programmer.gif" width="360" height="265" />
 
