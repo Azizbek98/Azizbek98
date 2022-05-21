@@ -11,9 +11,9 @@
 - 🎓 I have graduated from Inha University in Tashkent
 - 🎨 Portfolio website : <a href="https://a-samatov.netlify.app/" target="_blank">a-samatov.netlify.app</a>
 
-![programmer](https://user-images.githubusercontent.com/36354799/169642146-76547e26-930f-4ac3-a60d-46149de6b974.gif)
+<img align="center" alt="Programmer" src="programmer.gif" width="360" height="265" />
 
-<div align="left">
+<div align="center">
   <a href="https://t.me/a_Samatov">
     <img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
