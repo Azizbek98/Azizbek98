@@ -1,4 +1,4 @@
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hey there, My name is Azizbek <img align="right" alt="Codewars" src="https://www.codewars.com/users/Azizbek98/badges/large"/><br />
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> Hey there, My name is Azizbek <img align="right" alt="Codewars" src="https://www.codewars.com/users/Azizbek98/badges/large"/><br />
 
 <div align="center">
   <div align="center">
