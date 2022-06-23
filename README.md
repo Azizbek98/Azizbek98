@@ -10,7 +10,7 @@
   <span align="left">✨ I like to solve algorithmic tasks in Codewars</span> ║ 
   <span align="left">🔭 Hobbies: Following new techs on web development</span> ║ 
   <span align="left">🎓 Graduated from Inha University in Tashkent</span> ║ 
-  <span align="left">🎨 Portfolio website : <a href="https://a-samatov22.netlify.app/" target="_blank">sab.netlify.app</a></span>
+  <span align="left">🎨 Portfolio website : <a href="https://a-samatov22.netlify.app/" target="_blank">sab.netlify.app</a> (under development)</span>
   <p></p>
 </div>
 
