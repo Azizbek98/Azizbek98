@@ -1,7 +1,8 @@
 <img width="auto" src=".github/header.png" />
+
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> Hey there, My name is Azizbek <img align="right" alt="Codewars" src="https://www.codewars.com/users/Azizbek98/badges/large"/><br />
 
-<img align="right" alt="Programmer" src="programmer.gif" width="385" height="290" />
+<img align="right" alt="Programmer" src="programmer.gif" width="395" height="300" />
 
 <h4>About me:</h4>
 
@@ -24,12 +25,12 @@
   <a href="mailto:azizbeksamatov98@gmail.com">
     <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+  <br />
 </div>
 
-<br />
+<hr />
 
 <div align="center" width="300">
-  <hr />
   <h3 align="center">🛠 Tools & Technology</h3>
 
   <img alt="html" src=".github/1.png" />
