@@ -6,8 +6,6 @@
 
 ###
 
-###
-
 ### About me:
 
 - 💻 I'm Software Engineer ( Front-End )
@@ -15,6 +13,8 @@
 - 🔭 Hobbies: Following new techs on web development
 - 🎓 Graduated from Inha University in Tashkent
 - 🎨 Portfolio website : <a href="https://a-samatov22.netlify.app/" target="_blank">sab.netlify.app</a> (under development)
+
+###
 
 <div align="left">
   <a href="https://t.me/a_Samatov">
