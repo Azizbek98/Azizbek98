@@ -1,20 +1,17 @@
+<img width="auto" src=".github/header.png" />
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> Hey there, My name is Azizbek <img align="right" alt="Codewars" src="https://www.codewars.com/users/Azizbek98/badges/large"/><br />
 
-<div align="center">
-  <div align="center">
-    <img alt="Programmer" src="programmer.gif" width="485" height="390" />
-  </div>
-  
-  <h2>About me:</h2>
-  <span align="left">💻 I'm Software Engineer ( Front-End )</span> ║ 
-  <span align="left">✨ I like to solve algorithmic tasks in Codewars</span> ║ 
-  <span align="left">🔭 Hobbies: Following new techs on web development</span> ║ 
-  <span align="left">🎓 Graduated from Inha University in Tashkent</span> ║ 
-  <span align="left">🎨 Portfolio website : <a href="https://a-samatov22.netlify.app/" target="_blank">sab.netlify.app</a> (under development)</span>
-  <p></p>
-</div>
+<img align="right" alt="Programmer" src="programmer.gif" width="385" height="290" />
 
-<div align="center">
+<h4>About me:</h4>
+
+- 💻 I'm Software Engineer ( Front-End )
+- ✨ I like to solve algorithmic tasks in Codewars
+- 🔭 Hobbies: Following new techs on web development
+- 🎓 Graduated from Inha University in Tashkent
+- 🎨 Portfolio website : <a href="https://a-samatov22.netlify.app/" target="_blank">sab.netlify.app</a> (under development)
+
+<div align="left">
   <a href="https://t.me/a_Samatov">
     <img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
@@ -29,26 +26,52 @@
   </a>
 </div>
 
-<hr />
+<br />
 
 <div align="center" width="300">
+  <hr />
   <h3 align="center">🛠 Tools & Technology</h3>
-  
-  <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-  <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-  <img alt="SASS" src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white"/>
-  <img alt="Vue 3" src="https://img.shields.io/badge/Vue 3-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D"/>
-  <img alt="Tailwind CSS" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+
+  <img alt="html" src=".github/1.png" />
+  <img alt="css" src=".github/2.png" />
+  <img alt="bootstrap" src=".github/3.png" />
+  <img alt="scss" src=".github/4.png" />
+  <img alt="tailwind" src=".github/5.png" />
+  <img alt="javascript" src=".github/6.png" />
+  <img alt="typescript" src=".github/7.png" />
+  <img alt="webpack" src=".github/8.png" />
+  <img alt="vuejs" src=".github/9.png" />
+  <img alt="reactjs" src=".github/10.png" />
+  <img alt="redux" src=".github/11.png" />
+  <img alt="nodejs" src=".github/12.png" />
+  <img alt="material-ui" src=".github/13.png" />
+  <img alt="npm" src=".github/14.png" />
+  <img alt="git" src=".github/15.png" />
+  <img alt="github" src=".github/16.png" />
+  <img alt="figma" src=".github/17.png" />
 </div>
 
 <div align="center">
   <h3>:octocat: My github stats:</h3>
 </div>
+<div>
 <img align="left" alt="Github stats" src="https://github-readme-stats.vercel.app/api?username=azizbek98&theme=default" width="430" />
 <img align="right" alt="Github stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=azizbek98&langs_count=6&layout=compact" width="370" />
+</div>
+
+<br />
+
+![GitH𝚞𝚋 G𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=Azizbek98&theme=react-dark&hide_border=true&area=true)
+
+<br />
+
+<div>
+  <p align="center"> 
+    Visitor Count
+    </br>
+    <img src="https://profile-counter.glitch.me/azizbek98/count.svg" />
+  </p>
+</div>
 
 <!--
 **Azizbek98/Azizbek98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
