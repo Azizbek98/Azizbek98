@@ -4,7 +4,7 @@
 
 <img align="right" alt="Programmer" src="programmer.gif" width="395" height="300" />
 
-<h4>About me:</h4>
+### About me:
 
 - 💻 I'm Software Engineer ( Front-End )
 - ✨ I like to solve algorithmic tasks in Codewars
@@ -28,9 +28,11 @@
   <br />
 </div>
 
-<hr />
+####
 
-<div align="center" width="300">
+<div align="center" width="auto">
+<br />
+<hr />
   <h3 align="center">🛠 Tools & Technology</h3>
 
   <img alt="html" src=".github/1.png" />
