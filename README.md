@@ -68,8 +68,8 @@
 
 <br />
 
-<div>
-  <h3 align="center">:octocat: Contribution Graph:</h3>
+<div align="center">
+  <h3>:octocat: Contribution Graph:</h3>
 </div>
 
 ![GitH𝚞𝚋 G𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=Azizbek98&theme=react-dark&hide_border=true&area=true)
