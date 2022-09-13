@@ -68,7 +68,7 @@
 </div>
 
 <div align='center'>
-  <h4>:octocat: My github stats:</h4>
+  <h4></h4>
 </div>
 
 ![GitH𝚞𝚋 G𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=Azizbek98&theme=react-dark&hide_border=true&area=true)
