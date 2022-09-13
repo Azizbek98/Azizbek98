@@ -61,19 +61,14 @@
 <div align="center">
   <h3>:octocat: My github stats:</h3>
 </div>
+
 <div>
   <img align="left" alt="Github stats" src="https://github-readme-stats.vercel.app/api?username=azizbek98&theme=gradient" width="430" />
   <img align="right" alt="Github stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=azizbek98&langs_count=6&layout=compact&theme=gradient" width="370" />
   <br />
 </div>
 
-<div align='center'>
-  <h4></h4>
-</div>
-
 ![GitH𝚞𝚋 G𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=Azizbek98&theme=react-dark&hide_border=true&area=true)
-
-<br />
 
 <div>
   <p align="center"> 
@@ -82,3 +77,5 @@
     <img src="https://profile-counter.glitch.me/Azizbek98/count.svg" />
   </p>
 </div>
+
+<img align="center" src=".github/footer.svg" />
