@@ -73,7 +73,7 @@
 <div>
   <p align="center"> 
     Visitor Count
-    </br>
+    <br />
     <img src="https://profile-counter.glitch.me/Azizbek98/count.svg" />
   </p>
 </div>
