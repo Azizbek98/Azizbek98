@@ -68,7 +68,7 @@
   <br />
 </div>
 
-![GitH𝚞𝚋 G𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=Azizbek98&theme=react-dark&hide_border=true&area=true)
+![GitH𝚞𝚋 G𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.cyclic.app/graph?username=Azizbek98&theme=dracula)](https://github.com/azizbek98/github-readme-activity-graph)
 
 <div>
   <p align="center"> 
