@@ -68,7 +68,7 @@
   <br />
 </div>
 
-![GitH𝚞𝚋 G𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.cyclic.app/graph?username=Azizbek98&theme=dracula)](https://github.com/azizbek98/github-readme-activity-graph)
+[![Azizbek's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Azizbek98&theme=react-dark)](https://github.com/azizbek98/github-readme-activity-graph)
 
 <div>
   <p align="center"> 
