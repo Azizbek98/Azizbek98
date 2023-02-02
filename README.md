@@ -13,7 +13,7 @@
 - 🔭 Hobbies: Following new techs on web development
 - 🎓 Graduated from Inha University in Tashkent
 - 🎓 Student of RSSchool (JavaScript Developer)
-- 🎨 Portfolio website : <a href="https://a-samatov.netlify.app/" target="_blank">sab.netlify.app</a> (under development)
+- 🎨 Portfolio website : <a href="https://a-samatov.netlify.app/" target="_blank">a-samatov.netlify.app</a> (under development)
 
 ###
 
