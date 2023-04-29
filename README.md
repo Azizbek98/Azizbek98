@@ -9,10 +9,10 @@
 ### About me:
 
 - 💻 I'm Software Engineer ( Front-End )
-- ✨ I like to solve algorithmic tasks in Codewars
-- 🔭 Hobbies: Following new techs on web development
+- ✨ I enjoy tackling algorithmic challenges on Codewars
+- 🔭 Hobbies: AI, Mobile and Web Development
 - 🎓 Graduated from Inha University in Tashkent
-- 🎓 Student of RSSchool (JavaScript Developer)
+- 🎓 Student of RSSchool (JavaScript | NodeJS)
 - 🎨 Portfolio website : <a href="https://a-samatov.netlify.app/" target="_blank">a-samatov.netlify.app</a> (under development)
 
 ###
