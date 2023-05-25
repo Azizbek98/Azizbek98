@@ -64,7 +64,7 @@
 
 <div>
   <img align="left" alt="Github stats" src="https://github-readme-stats.vercel.app/api?username=azizbek98&show_icons=true&include_all_commits=true&theme=chartreuse-dark" width="430" height="190" />
-  <img align="right" alt="Github stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=azizbek98&langs_count=6&layout=compact&theme=chartreuse-dark" width="370" height="187" />
+  <img align="right" alt="Github stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=azizbek98&langs_count=6&layout=compact&theme=chartreuse-dark" width="400" height="187" />
   <br />
 </div>
 
