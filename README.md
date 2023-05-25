@@ -68,7 +68,7 @@
   <br />
 </div>
 
-[![Azizbek's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Azizbek98&theme=react-dark)](https://github.com/azizbek98/github-readme-activity-graph)
+[![Azizbek's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Azizbek98&theme=github-compact&hide_border=true)](https://github.com/azizbek98/github-readme-activity-graph)
 
 <div>
   <p align="center"> 
