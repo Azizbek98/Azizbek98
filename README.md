@@ -75,7 +75,7 @@
   <br />
 </div>
 
-<br />
+<hr />
 
 <div>
   <p align="center"> 
