@@ -75,6 +75,8 @@
   <br />
 </div>
 
+<br />
+
 <div>
   <p align="center"> 
     Visitor Count
