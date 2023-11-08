@@ -8,9 +8,9 @@
 
 <br />
 
-<img align="right" alt="Programmer" src="programmer.gif" width="395" height="280" />
-
 <!-- [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg) -->
+
+<img align="right" alt="Programmer" src="programmer.gif" width="395" height="280" />
 
 ### About me:
 
@@ -38,7 +38,6 @@
 </div>
 
 <div align="center" width="auto">
-  <br />
   <hr />
 
   <h3 align="center">🛠 Tools & Technology</h3>
@@ -75,14 +74,10 @@
   <br />
 </div>
 
-<hr />
-
-<div>
-  <p align="center"> 
-    Visitor Count
-    <br />
-    <img src="https://profile-counter.glitch.me/Azizbek98/count.svg" />
-  </p>
-</div>
+<!-- <p align="center">
+  Visitor Count
+  <br />
+  <img src="https://profile-counter.glitch.me/Azizbek98/count.svg" />
+</p> -->
 
 <img align="center" src=".github/footer.svg" />
