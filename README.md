@@ -3,7 +3,7 @@
 <h1>
   <img align="left" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" />
   Hi there, my name is Azizbek 
-  <img align="right" alt="Codewars" src="https://www.codewars.com/users/Azizbek98/badges/small" />
+  <img align="right" alt="Codewars" src="https://www.codewars.com/users/Azizbek98/badges/large" />
 </h1>
 
 <br />
@@ -37,8 +37,6 @@
   <br />
 </div>
 
-####
-
 <div align="center" width="auto">
   <br />
   <hr />
@@ -62,6 +60,8 @@
   <img alt="git" src=".github/15.png" />
   <img alt="github" src=".github/16.png" />
 </div>
+
+<hr />
 
 <div align="center">
   <h3>:octocat: My github stats:</h3>
