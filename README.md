@@ -1,7 +1,7 @@
 <img width="auto" src=".github/header.png" />
 
 <h1>
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" />
+  <img align="left" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" />
   Hi there, my name is Azizbek 
   <img align="right" alt="Codewars" src="https://www.codewars.com/users/Azizbek98/badges/large" />
 </h1>
@@ -42,8 +42,9 @@
 ####
 
 <div align="center" width="auto">
-<br />
-<hr />
+  <br />
+  <hr />
+
   <h3 align="center">🛠 Tools & Technology</h3>
 
   <img alt="html" src=".github/1.png" />
