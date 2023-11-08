@@ -76,11 +76,11 @@
 [![Azizbek's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Azizbek98&theme=react&hide_border=true)](https://github.com/azizbek98/github-readme-activity-graph)
 
 <div>
-  <h3 align="center"> 
+  <p align="center"> 
     Visitor Count
     <br />
     <img src="https://profile-counter.glitch.me/Azizbek98/count.svg" />
-  </h3>
+  </p>
 </div>
 
 <img align="center" src=".github/footer.svg" />
