@@ -73,9 +73,9 @@
   <br />
 </div>
 
-<div width="800">
-  [![Azizbek's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Azizbek98&theme=react&hide_border=true)](https://github.com/azizbek98/github-readme-activity-graph)
-</div>
+<hr />
+
+[![Azizbek's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Azizbek98&theme=react&hide_border=true)](https://github.com/azizbek98/github-readme-activity-graph)
 
 <div>
   <p align="center"> 
