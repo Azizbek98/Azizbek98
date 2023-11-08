@@ -21,8 +21,6 @@
 - 🎓 Student of RSSchool (JavaScript | NodeJS)
 - 🎨 Portfolio website : <a href="https://a-samatov.netlify.app/" target="_blank">a-samatov.netlify.app</a> (under development)
 
-###
-
 <div align="left">
   <a href="https://t.me/a_Samatov">
     <img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
