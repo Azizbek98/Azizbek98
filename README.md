@@ -12,7 +12,7 @@
 
 ### About me:
 
-- 💻 I'm a Software Engineer ( Front-End developer )
+- 💻 I'm a Software Engineer ( Front-End )
 - ✨ I enjoy tackling algorithmic challenges on Codewars
 - 🔭 Hobbies: AI, Mobile, and Web Development
 - 🎓 Graduated from Inha University in Tashkent
