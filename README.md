@@ -12,12 +12,12 @@
 
 ### About me:
 
-- 💻 I'm Software Engineer ( Front-End )
+- 💻 I'm Software Engineer ( Front-End developer )
 - ✨ I enjoy tackling algorithmic challenges on Codewars
 - 🔭 Hobbies: AI, Mobile and Web Development
 - 🎓 Graduated from Inha University in Tashkent
 - 🎓 Student of RSSchool (JavaScript | NodeJS)
-- 🎨 Portfolio website : <a href="https://a-samatov.netlify.app/" target="_blank">a-samatov.netlify.app</a> (under development)
+- 🎨 Portfolio website : <a href="https://a-samatov.netlify.app/" target="_blank">a-samatov.netlify.app</a>
 
 <div align="left">
   <a href="https://t.me/a_Samatov">
